@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f14e9be6.css",
+    "main.js": "/static/js/main.7658e5b9.js",
+    "static/js/453.a77903b9.chunk.js": "/static/js/453.a77903b9.chunk.js",
+    "static/media/swiming.jpeg": "/static/media/swiming.628d74e57053fc67425f.jpeg",
+    "static/media/rugby.jpg": "/static/media/rugby.b9f63afd56af3340b1d0.jpg",
+    "static/media/flight-image.jpg": "/static/media/flight-image.236cb3c879ab356c36a1.jpg",
+    "static/media/football.jpg": "/static/media/football.b42d1fd6b7e95274120a.jpg",
+    "static/media/women-footbal.webp": "/static/media/women-footbal.cf4fa8a2c4a8cf8d62aa.webp",
+    "static/media/contact1.jpg": "/static/media/contact1.d1ef69214f1abf2143ef.jpg",
+    "static/media/contact2.jpg": "/static/media/contact2.cfa803a5d2891cae4eaa.jpg",
+    "static/media/info-img.jpg": "/static/media/info-img.15bd72bbf9999e4fe979.jpg",
+    "static/media/basket-ball.webp": "/static/media/basket-ball.fd9ab73bd902a04ecbcf.webp",
+    "static/media/spinner.gif": "/static/media/spinner.f9a9df0150c73304a9e7.gif",
+    "static/media/fieldHockey.jpeg": "/static/media/fieldHockey.78bf6d1f1f11e87eaaf4.jpeg",
+    "index.html": "/index.html",
+    "main.f14e9be6.css.map": "/static/css/main.f14e9be6.css.map",
+    "main.7658e5b9.js.map": "/static/js/main.7658e5b9.js.map",
+    "453.a77903b9.chunk.js.map": "/static/js/453.a77903b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f14e9be6.css",
+    "static/js/main.7658e5b9.js"
+  ]
+}
